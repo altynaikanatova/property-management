@@ -1,9 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html 
 <head>
+     <title>Таблицы в HTML</title>
+     <meta> charset="utf-8" />
+</head>
 <body>
- <form>
-  <input name-"contact name" />
-  <button type="submit">Submit</button>
-</form>
-</html>
+      <table border="1">
+ <tr>
+  <th>Contact Name<caption>
+  <tr>
+  </table>
